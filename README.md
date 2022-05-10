@@ -1,2 +1,2 @@
-# Auto-FIle-Rename
-A fiel renamer i made because blender mantaflow is a pain in the ass
+# Auto-File-Rename
+A file renamer i made because blender mantaflow is a pain in the ass
